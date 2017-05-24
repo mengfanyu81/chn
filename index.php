@@ -1,6 +1,6 @@
 <?php
 //okok
-//
+//8888
 //@frank
 //test pcntl 
 $pid=pcntl_fork();
