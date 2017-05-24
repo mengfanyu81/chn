@@ -1,4 +1,5 @@
 <?php
+//ok
 //@frank
 //test pcntl 
 $pid=pcntl_fork();
